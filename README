@@ -1,0 +1,3 @@
+For setup make:
+"pip install -r req.txt"
+create "data" folder
